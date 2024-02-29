@@ -1,4 +1,4 @@
-#Introduction to Mathematics for Computer Science
+# Introduction to Mathematics for Computer Science
 
 - [ ] **1.1.1 Welcome to 6.042**
 - [ ] **1.1.2 Intro to Proofs: Part 1**
