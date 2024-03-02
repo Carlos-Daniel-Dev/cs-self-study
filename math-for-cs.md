@@ -2,7 +2,7 @@
 
 - [✔️] **1.1.1 Welcome to 6.042**
 - [✔️] **1.1.2 Intro to Proofs: Part 1**
-- [ ] **1.1.3 Intro to Proofs: Part 2**
+- [✔️] **1.1.3 Intro to Proofs: Part 2**
 - [ ] **1.2.1 Proof by Contradiction**
 - [ ] **1.2.3 Proof by Cases**
 - [ ] **1.3.1 Well Ordering Principle 1: Video**
